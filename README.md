@@ -5,7 +5,7 @@ BMI is the acronym for Body Mass Index, which is a calculation that serves to as
 
 Each BMI result must be evaluated by a healthcare professional. However, the table below indicates the possible results of BMI, according to the World Health Organization, with a BMI between 18.5 and 24.9 representing the ideal weight and the lowest risk of some diseases.
 
-<img align="right" src="https://github.com/Mikaelsbernes/BMI_Calculator-/raw/main/BMI" widht="150"/>
+<img align="right" src="https://github.com/mikaelsbernes/BMI_Calculator-/blob/main/BMI.PNG" widht="150"/>
 
 # [BR] CALCULADORA IMC
 
@@ -15,4 +15,4 @@ IMC é a sigla para Índice de Massa Corporal, que é um cálculo que serve para
 
 Cada resultado do IMC deve ser avaliado por um profissional de saúde. No entanto, a tabela a seguir indica os possíveis resultados do IMC, de acordo com a Organização Mundial da Saúde, sendo que o IMC entre 18,5 a 24,9 representa o peso ideal e o menor risco de algumas doenças.
 
-<img align="right" src="https://github.com/Mikaelsbernes/BMI_Calculator-/raw/main/IMC" widht="150"/>
+<img align="right" src="https://github.com/mikaelsbernes/BMI_Calculator-/blob/main/IMC.PNG" widht="150"/>
